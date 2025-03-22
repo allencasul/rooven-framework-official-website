@@ -6,7 +6,7 @@ The official website of Rooven Framework, an open-source web user interface comp
 
 ## Documentation
 
-Full documentation: [Click here.](https://roovenframework.com/rooven-documentation/)
+Full documentation: [Click here.](https://roovenframework.com/)
 
 ## Licensing
 
