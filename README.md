@@ -7,7 +7,7 @@ The official website of Rooven Framework, an open-source web user interface comp
 ![Github](https://img.shields.io/github/repo-size/allencasul/rooven-framework-official-website)
 ![Github](https://img.shields.io/github/stars/allencasul/rooven-framework-official-website)
 
-<a href="https://roovenframework.com"><img src="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework-official-website@master/src/client/assets/img/png/rooven-framework-white.png" alt="Rooven" style="max-width:100%;" width="600"></a>
+<a href="https://roovenframework.com"><img src="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework-official-website@master/src/client/assets/img/png/rooven-framework-transparent.png" alt="Rooven" style="max-width:100%;" width="600"></a>
 
 ## Documentation
 
