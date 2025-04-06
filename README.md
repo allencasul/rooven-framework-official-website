@@ -2,12 +2,15 @@
 
 The official website of Rooven Framework, an open-source web user interface component library built with inline CSS.
 
+![NPM](https://img.shields.io/npm/v/rooven-framework-official-website?color=e60914)
+![NPM](https://img.shields.io/npm/dw/rooven-framework-official-website?color=%23ef3e36)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/allencasul/rooven-framework-official-website/badge)
 ![Github](https://img.shields.io/github/license/allencasul/rooven-framework-official-website)
 ![Github](https://img.shields.io/github/repo-size/allencasul/rooven-framework-official-website)
+![Github](https://img.shields.io/github/contributors/allencasul/rooven-framework-official-website?color=%234a4df5)
 ![Github](https://img.shields.io/github/stars/allencasul/rooven-framework-official-website)
 
-<a href="https://roovenframework.com"><img src="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework-official-website@master/src/client/assets/img/png/rooven-framework-transparent.png" alt="Rooven" style="max-width:100%;" width="600"></a>
+<a href="https://roovenframework.com"><img src="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework-official-website@master/src/client/assets/img/png/rooven-framework-white.png" alt="Rooven" style="max-width:100%;" width="600"></a>
 
 ## Documentation
 
