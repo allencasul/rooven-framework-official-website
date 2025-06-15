@@ -4,7 +4,6 @@ The official website of Rooven Framework, an open-source web user interface comp
 
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/allencasul/rooven-framework-official-website/badge)
 ![Github](https://img.shields.io/github/license/allencasul/rooven-framework-official-website)
-![Github](https://img.shields.io/github/repo-size/allencasul/rooven-framework-official-website)
 ![Github](https://img.shields.io/github/contributors/allencasul/rooven-framework-official-website?color=%234a4df5)
 ![Github](https://img.shields.io/github/stars/allencasul/rooven-framework-official-website)
 
